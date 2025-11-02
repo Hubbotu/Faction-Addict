@@ -119,6 +119,4 @@ local L = FactionAddictGT.Localization
 
 -- Misc Strings
 ["MISC_PARAGON_TXT"] = "Парагон",
-
-}
 end;
