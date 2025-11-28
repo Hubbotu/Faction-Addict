@@ -63,7 +63,7 @@ if GetLocale() == "ruRU" then -- ruRU - Translator ZamestoTV
 	L["TAB4_CONFIG_HORDE_ONLY"] = "Только Орда"
 	L["TAB4_CONFIG_AUTOBAR"] = "Автосмена полосы репутации"
 	L["TAB4_CONFIG_HIDEINACTIVE"] = "Скрывать неактивные фракции"
-	L["TAB4_PICK_EXPANSIONS"] = "Выбрать дополнения"
+	L["TAB4_PICK_EXPANSIONS"] = "Выбрать дополнение"
 	L["TAB4_EXPANSIONS"] = "Дополнения"
 
 	-- Tab5 - about text
@@ -119,3 +119,4 @@ if GetLocale() == "ruRU" then -- ruRU - Translator ZamestoTV
 	-- Misc Strings
 	L["MISC_PARAGON_TXT"] = "Парагон"
 end;
+
